@@ -1,0 +1,39 @@
+body{
+    font-family:'Courier New';
+    padding:10px;
+    height:100vh;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.task-button{
+    padding:10px;
+    background-color: green;
+    font-size: medium;
+    margin:10px 5px;
+    color: #fff;
+    border-radius: 5px;
+}
+.text-center{
+    text-align: center;
+    align-items: center;
+}
+ul {
+    list-style-type: none;
+    padding: 10px;
+    margin:10px;
+}
+button{
+    margin-left:10px;
+    border-radius: 5px;
+    color:#fff;
+    background-color: orange;
+    border-color: #000;
+    text-decoration: solid;
+}
+
+label{
+    margin-left:10px;
+}
